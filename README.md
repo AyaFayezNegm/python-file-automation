@@ -23,7 +23,9 @@ This project was developed as part of my Python learning journey to practice fil
 - `shutil` module
 
 ---
+## 📁 Project Structure
 
+```text
 CodeAlpha_FileAutomation/
 │
 ├── images/
@@ -41,7 +43,7 @@ CodeAlpha_FileAutomation/
 │
 ├── main.py
 └── README.md
-
+```
 ---
 
 ## 🚀 How It Works
